@@ -1,4 +1,4 @@
 mysql-token
 ===========
 
-a c++ lib for mysql flex
+a c++ lib mysql 词法解析器
